@@ -1,0 +1,46 @@
+body {
+    text-align:center;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    font-family:'Times New Roman', Times, serif;
+    position:relative;
+
+}
+h1 {
+    color:red;
+}
+.int2 {
+    color: brown;
+}
+.mdst {
+    color:green;
+}
+.apt1 {
+    height:50px;
+    width:200px;
+    background-color: aquamarine;
+    color: chocolate;
+    font-size: larger;  
+}
+.img {
+    height:500px;
+    width:75%;
+}
+a {
+    color:red;
+}
+a:visited {
+    color:brown;
+}
+a:hover {
+    color:coral;
+}
+a:active {
+    color:darkred;
+}
+button:active {
+    color:darkred;
+}
+butto:hover {
+    color:coral;
+}
